@@ -1,3 +1,3 @@
 # phonebook
-hi
+hello
 this is simple phonebook with structs
