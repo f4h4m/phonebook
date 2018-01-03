@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1514667602 source:f:\c++\tests\uniproject2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	<windows.h>
+	<sstream>
+	"TextTable.h"
+
+1473393345 f:\c++\tests\uniproject2\texttable.h
+	<iostream>
+	<map>
+	<iomanip>
+	<vector>
+	<string>
+
+1514667604 source:g:\uniproject2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	<windows.h>
+	<sstream>
+	"TextTable.h"
+
+1473393346 g:\uniproject2\texttable.h
+	<iostream>
+	<map>
+	<iomanip>
+	<vector>
+	<string>
+
