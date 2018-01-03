@@ -722,9 +722,9 @@ void login(string RealUsername,string RealPassword)
 void testProgram(phone phoneOBJ[100])
 {
     phoneOBJ[0].name = "mehdi";
-    phoneOBJ[0].family = "khosravi";
+    phoneOBJ[0].family = "akhavan";
     phoneOBJ[0].middleName = "";
-    phoneOBJ[0].email = "mahdi_khosravi@gmail.com";
+    phoneOBJ[0].email = "mahdi_khavan@gmail.com";
     phoneOBJ[0].number = "091156464";
     phoneOBJ[0].group = "family";
 
